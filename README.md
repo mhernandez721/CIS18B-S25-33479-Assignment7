@@ -17,3 +17,6 @@ The program was made using Eclipse IDE but for some reason, didn't work using th
 Please make sure you have the same JavaFX version as here or newer to minimize risk of not working.
 
 
+* P.S.
+  This was a goofy assignment, I did a lot of personal research on how things work, like youtube and such.
+
